@@ -27,10 +27,6 @@ To be updated
 
 This repository contains the following contents. 
 
-## Related Resources
-
-* code for BSA method https://github.com/acaloiaro/topk-taupath/tree/master/R
-
 #### - Experiment codes
 Python codes used for our experiments. 
 
@@ -49,3 +45,8 @@ To be updated...
 
 ## Datasets
 COVID-19 data in VA
+
+## Related Resources
+
+* code for BSA method https://github.com/acaloiaro/topk-taupath/tree/master/R
+
