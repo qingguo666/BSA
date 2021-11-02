@@ -2,7 +2,7 @@
 
 This is the official code repository for the paper `Association-based Optimal Subpopulation Selection for Multivariate Data`.
 
-In  the  analysis  of  multivariate  data,  a  useful  problem  is  to  identify  a  subset  ofobservations for which the variables are strongly associated.  One example is in driving safety analytics, where we may wish to identify a subset of drivers with a strongassociation  among  their  driving  behavior  characteristics.   Other  interesting  domainsinclude  finance,  healthcare,  marketing,  etc.   Existing  approaches,  such  as  the  Top-kmethod or the tau-path approach primarily relate to bivariate data and/or invoke thenormality  assumption.   Directly  adapting  these  methods  to  the  multivariate  framework is cumbersome.  In this work, we propose a semiparametric statistical approachfor  the  optimal  selection  of  subpopulations  based  on  the  patterns  of  associations  inmultivariate data.  The proposed method leverages the concept of general correlationcoefficients to enable the optimal selection of subpopulation for a variety of associationpatterns.   We  develop  efficient  algorithms  consisting  of  sequential  inclusion  of  casesinto the subpopulation.  We illustrate the performance of the proposed method using simulated data and a interesting real data.
+In  the  analysis  of  multivariate  data,  a  useful  problem  is  to  identify  a  subset  of observations for which the variables are strongly associated.  One example is in driving safety analytics, where we may wish to identify a subset of drivers with a strong association  among  their  driving  behavior  characteristics.   Other  interesting  domains include  finance,  healthcare,  marketing,  etc.   Existing  approaches,  such  as  the  Top-kmethod or the tau-path approach primarily relate to bivariate data and/or invoke thenormality  assumption.   Directly  adapting  these  methods  to  the  multivariate  framework is cumbersome.  In this work, we propose a semiparametric statistical approachfor  the  optimal  selection  of  subpopulations  based  on  the  patterns  of  associations  inmultivariate data.  The proposed method leverages the concept of general correlation coefficients to enable the optimal selection of subpopulation for a variety of association patterns.   We  develop  efficient  algorithms  consisting  of  sequential  inclusion  of  cases into the subpopulation.  We illustrate the performance of the proposed method using simulated data and a interesting real data.
 
 You can clone this repository by running:
 
@@ -11,9 +11,9 @@ git clone https://github.com/qingguo666/FastBSA
 ```
 ## Author
 
-* Qing Guo Department of Statistics, Virginia Tech, e-mail: qguo0701@vt.edu
-* Xinwei DengDepartment of Statistics, Virginia Tech, e-mail: xdeng@vt.edu
-* Nalini RavishankerDepartment of Statistics, University of Connecticut, e-mail: nalini.ravishanker@uconn.edu (correspondence)
+* Qing Guo, Department of Statistics, Virginia Tech, e-mail: qguo0701@vt.edu
+* Xinwei Deng, Department of Statistics, Virginia Tech, e-mail: xdeng@vt.edu
+* Nalini Ravishanker, Department of Statistics, University of Connecticut, e-mail: nalini.ravishanker@uconn.edu (correspondence)
 
 ## Citation
 
