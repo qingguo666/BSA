@@ -11,9 +11,9 @@ git clone https://github.com/qingguo666/FLO
 ```
 ## Author
 
-Qing Guo Department of Statistics, Virginia Tech, e-mail: qguo0701@vt.edu
-Xinwei DengDepartment of Statistics, Virginia Tech, e-mail: xdeng@vt.edu
-Nalini RavishankerDepartment of Statistics, University of Connecticut, e-mail: nalini.ravishanker@uconn.edu (correspondence)
+* Qing Guo Department of Statistics, Virginia Tech, e-mail: qguo0701@vt.edu
+* Xinwei DengDepartment of Statistics, Virginia Tech, e-mail: xdeng@vt.edu
+* Nalini RavishankerDepartment of Statistics, University of Connecticut, e-mail: nalini.ravishanker@uconn.edu (correspondence)
 
 ## Citation
 
