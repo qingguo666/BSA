@@ -2,6 +2,9 @@
 
 This is the official code repository for the paper `Association-based Optimal Subpopulation Selection for Multivariate Data`.
 
+In this repository, we provide three algorithms, Forward Selection, Backward Selection, and Genetic Algorithm.
+
+# Abstract
 In  the  analysis  of  multivariate  data,  a  useful  problem  is  to  identify  a  subset  of observations for which the variables are strongly associated.  One example is in driving safety analytics, where we may wish to identify a subset of drivers with a strong association  among  their  driving  behavior  characteristics.   Other  interesting  domains include  finance,  healthcare,  marketing,  etc.   Existing  approaches,  such  as  the  Top-k method or the tau-path approach primarily relate to bivariate data and/or invoke the normality  assumption.   Directly  adapting  these  methods  to  the  multivariate  framework is cumbersome.  In this work, we propose a semiparametric statistical approach for  the  optimal  selection  of  subpopulations  based  on  the  patterns  of  associations  in  multivariate data.  The proposed method leverages the concept of general correlation coefficients to enable the optimal selection of subpopulation for a variety of association patterns.   We  develop  efficient  algorithms  consisting  of  sequential  inclusion  of  cases into the subpopulation.  We illustrate the performance of the proposed method using simulated data and an interesting real data.
 
 You can clone this repository by running:
