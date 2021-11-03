@@ -16,7 +16,7 @@ git clone https://github.com/qingguo666/BSA
 
 * Qing Guo, Department of Statistics, Virginia Tech, e-mail: qguo0701@vt.edu
 * Xinwei Deng, Department of Statistics, Virginia Tech, e-mail: xdeng@vt.edu
-* Nalini Ravishanker, Department of Statistics, University of Connecticut, e-mail: nalini.ravishanker@uconn.edu (correspondence)
+* Nalini Ravishanker, Department of Statistics, University of Connecticut, e-mail: nalini.ravishanker@uconn.edu (corresponding author)
 
 ## Citation
 
