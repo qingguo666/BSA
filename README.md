@@ -10,7 +10,7 @@ In  the  analysis  of  multivariate  data,  a  useful  problem  is  to  identify
 You can clone this repository by running:
 
 ```
-git clone https://github.com/qingguo666/FastBSA
+git clone https://github.com/qingguo666/BSA
 ```
 ## Author
 
